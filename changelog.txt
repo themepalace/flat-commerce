@@ -1,0 +1,53 @@
+== Change Log ==
+
+= 1.0 =
+* Changes done for 4.7 Custom CSS support
+* Added topbar section
+
+= 0.9 =
+* Transition length and delay option added on Featured slider and product slider section.
+* Disable scrollup option added.
+* Wordpress 4.6 validate feature added
+
+= 0.8 =
+* Enable/disable single post navigation
+* Breadcrumb option
+
+= 0.7 =
+* Added numeric pagination
+
+= 0.6 =
+* GPL Licence updated
+* Theme URI setup
+* Copyright text udated
+* Theme social media links removed from control
+* Backward compability removed
+* Custom header showed on Appearance menu
+* Unminified version of style added
+* Unused files removed
+* Text made translateable
+* Late escaping done on left strings
+
+= 0.5 =
+* Functions refined
+* Unwanted functions removed
+* Missing licenses updated
+* WPML updated
+* Language files updated
+
+= 0.4 =
+* Theme description edited
+
+= 0.3 =
+* WPML compatible
+* Resetting logo
+* Updated bottom section active callback
+* Upgrade to pro button enabled
+
+= 0.2 =
+* Added sections: Featured Slider, Promotional Headline, Product Slider, Recent Products and Bottom Section
+* Added Featured Post widget
+* Added sidebars: Primary, WooCommerce Primary, Footer Sidebars
+
+= 0.1 =
+* Initial Release
